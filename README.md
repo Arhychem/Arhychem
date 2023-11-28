@@ -1,5 +1,5 @@
 
-Hello, I am a I am a computer engineering student, passionate about cybersecurity, system programming and reverse engineering.
+Hello,I am a computer engineering student, passionate about cybersecurity, system programming and reverse engineering.
 <!--
 **Max-Sunder/Max-Sunder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
